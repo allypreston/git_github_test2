@@ -1,4 +1,10 @@
-# git commands
+#git
+
+## definition
+
+git is a version control system, it allows you to organise previous versions of your files for structure and be able to safely store different versions of files for various uses.
+
+## git commands
 
 git init = starts git in the current directory
 
